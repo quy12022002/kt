@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 quy -- main
+=======
+quy -- branch quy
+>>>>>>> quy
